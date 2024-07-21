@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "9978de00-fd0e-4a6e-afc7-96a106efe034",
+    "name": "Dr. Kristie Quigley",
+    "phone": "710-544-0341 x960",
+    "email": "Brandt69@gmail.com",
+    "job": "Lead Directives Supervisor"
+  },
+  {
+    "id": "109808a7-4add-49d2-8d29-3c5ca9ca9803",
+    "name": "Terence Cole",
+    "phone": "331.751.9173",
+    "email": "Nona.Gerhold73@gmail.com",
+    "job": "Direct Web Director"
+  },
+  {
+    "id": "c9de576f-f653-4958-a495-e62facab4d3d",
+    "name": "Greg Hettinger",
+    "phone": "739.969.3718",
+    "email": "Hayley_Ward@yahoo.com",
+    "job": "Legacy Solutions Consultant"
+  },
+  {
+    "id": "706fe955-abb8-46ec-a81c-dc0c5fbf48ad",
+    "name": "Marion Lehner",
+    "phone": "1-536-411-3317 x7795",
+    "email": "Stanton.Little83@hotmail.com",
+    "job": "Corporate Security Strategist"
+  }
+]
